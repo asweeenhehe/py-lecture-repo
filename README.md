@@ -1,1 +1,2 @@
 # py-lecture-repo
+## About 
